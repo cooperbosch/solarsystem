@@ -1,0 +1,39 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  texture.cpp
+C:\gfx\Aclass22\AAAssts\asst8\sol\geometry.h(315): warning C4244: 'argument': conversion from 'const T' to 'const T', possible loss of data
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\gfx\Aclass22\AAAssts\asst8\sol\geometry.h(350): warning C4244: 'argument': conversion from 'const T' to 'const T', possible loss of data
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\gfx\Aclass22\AAAssts\asst8\sol\geometry.h(391): warning C4244: 'argument': conversion from 'const T' to 'const T', possible loss of data
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\gfx\Aclass22\AAAssts\asst8\sol\geometry.h(392): warning C4244: 'argument': conversion from 'const T' to 'const T', possible loss of data
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+  asst8.vcxproj -> C:\gfx\Aclass22\AAAssts\asst8\sol\.\Debug\asst8.exe
